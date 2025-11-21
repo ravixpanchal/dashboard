@@ -222,5 +222,5 @@ If you need help with:
 
 Feel free to reach out or open an issue.
 
-## Contact me :) ravi.panchal.kaithi@gmail.com
+Contact me :) ravi.panchal.kaithi@gmail.com
 
