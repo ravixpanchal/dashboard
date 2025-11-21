@@ -3,9 +3,9 @@
 A fully responsive **Smart Attendance Management Dashboard** built using:
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Flask (Python REST API)  
-- **Database:** MySQL (Local or Cloud e.g., Aiven/PlanetScale/DB4Free)  
-- **Features:** CRUD, Excel Export, Search, Notice Board, Dark Mode, Responsive UI  
+- **Backend:** Flask (Python framework)
+- **Database:** MySQL 
+- **Features:** CRUD, Excel Export, Search, Notice Board, Dark Mode, Responsive UI 
 
 This project allows you to maintain and monitor student attendance.  
 You can add/update/delete students **from both the website UI and the MySQL terminal**.  
@@ -221,4 +221,6 @@ If you need help with:
 - QR Code / Face Recognition Attendance  
 
 Feel free to reach out or open an issue.
+
+## Contact me :) ravi.panchal.kaithi@gmail.com
 
